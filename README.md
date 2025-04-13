@@ -24,7 +24,7 @@ https://www.coingecko.com/en/api
 https://www.coingecko.com/api/documentations/v3
 
 ## 🚀 Live Demo
-Check out the live website here: [CryptoPulse on Netlify]([https://your-netlify-link.netlify.app](https://cryptopulse12.netlify.app))
+Check out the live website here: [CryptoPulse on Netlify](https://cryptopulse12.netlify.app)
 
 📸 Screenshots
 
@@ -38,4 +38,3 @@ Check out the live website here: [CryptoPulse on Netlify]([https://your-netlify-
 
 🙋‍♀️ Author
 Akshaya G
-Final Year CSE Student
