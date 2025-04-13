@@ -20,9 +20,6 @@ A responsive and interactive cryptocurrency dashboard built with **HTML**, **CSS
 🔗 API Link:
 https://www.coingecko.com/en/api
 
-📚 Docs:
-https://www.coingecko.com/api/documentations/v3
-
 ## 🚀 Live Demo
 Check out the live website here: [CryptoPulse on Netlify](https://cryptopulse12.netlify.app)
 
