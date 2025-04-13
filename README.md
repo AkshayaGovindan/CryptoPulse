@@ -23,11 +23,17 @@ https://www.coingecko.com/en/api
 📚 Docs:
 https://www.coingecko.com/api/documentations/v3
 
+## 🚀 Live Demo
+Check out the live website here: [CryptoPulse on Netlify]([https://your-netlify-link.netlify.app](https://cryptopulse12.netlify.app))
+
 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/106e4cea-efd6-4a8a-bb1c-014c06d90a37)
-![image](https://github.com/user-attachments/assets/a8a834dc-6e2c-4748-8f1c-aa31353f2955)
-![image](https://github.com/user-attachments/assets/aa00df2a-d8be-410a-ba74-8083ea8d21ea)
+![image](https://github.com/user-attachments/assets/7fdb2c04-4491-4962-a145-6fb7259c95d2)
+![image](https://github.com/user-attachments/assets/f83e9483-78ee-458c-99dc-61a043628819)
+![image](https://github.com/user-attachments/assets/f567bbe9-d338-4e87-8a4d-24aeee771144)
+
+
+
 
 
 🙋‍♀️ Author
